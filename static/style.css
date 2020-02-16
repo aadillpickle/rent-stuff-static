@@ -66,8 +66,8 @@ div {
   }
 
 .home-product-image {
-    width: 70%;
-    max-width: 800px;
+    width:70%; /* you can use % */
+    height: auto;
 }
 .accent {
     --block-accent-color: #2c2c2c;
